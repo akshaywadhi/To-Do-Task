@@ -1,5 +1,5 @@
 run command npm install in backend folder
-run command npm install in backend folder
+run command npm install in frontend folder
 
 
 after that
