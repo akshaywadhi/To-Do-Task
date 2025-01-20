@@ -1,0 +1,10 @@
+
+.bg {
+
+  background-image: url(../assets/background.jpg) !important;  
+  background-size: contain;  
+  background-position: center;  
+  background-repeat: no-repeat;  
+  background-attachment: fixed;  
+  width: 100%; height: 90vh;
+}
